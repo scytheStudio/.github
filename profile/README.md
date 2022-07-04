@@ -28,7 +28,7 @@ We constantly want to improve and grow as a company and individuals. If you are 
 
  ### [SCodes](https://github.com/scytheStudio/SCodes)
 
-This project is Qt & Qml wrapper for [ZXing-C++ Library](https://github.com/nu-book/zxing-cpp) that is used for decoding and generating 1D and 2D barcodes. This particular C++ ZXing port is one of the most recent C++ versions of the popular ZXing library using modern compilers. The goal of this project was to create a convenient filter allowing the processing of video frames from a phone camera. 
+This project is Qt & Qml wrapper for ZXing-C++ Library that is used for decoding and generating 1D and 2D barcodes. This particular C++ ZXing port is one of the most recent C++ versions of the popular ZXing library using modern compilers. The goal of this project was to create a convenient filter allowing the processing of video frames from a phone camera. 
 
 
 
