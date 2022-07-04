@@ -1,5 +1,5 @@
 
-![Scythe Studio logo](../assets/images/Scythe-Studio.png)
+![Scythe Studio logo](../assets/Scythe-Studio.png)
 
 ## What is Scythe Studio? 🏢
 
@@ -11,8 +11,7 @@ The company offers numerous services for clients who wish to bring their ideas t
 
 
 
-
-![Scythe Studio team picture](../assets/images/Team.jpg)
+![Scythe Studio team picture](../assets/Team.jpg)
 
 
 ## Career at Scythe Studio  🧑‍💻
@@ -24,7 +23,7 @@ We constantly want to improve and grow as a company and individuals. If you are 
 
 
 
-![Scythe Studio team picture](../assets/images/Scodes.png)
+![Scythe Studio team picture](../assets/Scodes.png)
 
  ### [SCodes](https://github.com/scytheStudio/SCodes)
 
@@ -32,29 +31,29 @@ This project is Qt & Qml wrapper for ZXing-C++ Library that is used for decoding
 
 
 
-![Flutter vs React Native vs Qt comparison](../assets/images/Technology.png)
+![Flutter vs React Native vs Qt comparison](../assets/Technology.png)
 
 ### [Flutter vs React Native vs Qt comparison](https://github.com/scytheStudio/Flutter-vs-React-Native-vs-Qt)
 
 
-![Flutter vs React Native vs Qt comparison](../assets/images/Gitlab.png)
+![Flutter vs React Native vs Qt comparison](../assets/Gitlab.png)
 ### [ Example GitLab CI/CD for Qt project](https://gitlab.com/kosadev/example-gitlab-ci-cd-for-qt-project)
 
 This project focuses on showing an example of how to set up CI/CD for a cross-platform Qt project. The application itself doesn't do anything. `.gitlab-ci.yml` and Ruby scripts placed in `targets` sub directories are what you should be concerned about.
 
 
-![NFC Demo](../assets/images/NFC-Demo.png)
+![NFC Demo](../assets/NFC-Demo.png)
 ### [NFC Demo](https://github.com/scytheStudio/NFC-Demo)
 
 This demo presents how to use NFC for communication using the Qt framework on a mobile platform. The application has a simple UI and logic that can be an example of creative NFC usage. If you want a more in-depth look you can check out our blog post on Scythe Studio Blog.
 
-![Zoho Books Forecasting](../assets/images/Zoho-Books-Forecasting.png)
+![Zoho Books Forecasting](../assets/Zoho-Books-Forecasting.png)
 
 ### [Zoho Books Forecasting](https://github.com/scytheStudio/Zoho-Books-Forecasting)
 
 Zoho Books Forecasting is a desktop application. It visualizes the financial history and makes forecasts for companies. The application utilizes the Zoho Books platform. The motivation behind the making of such an application was the inability of Zoho Books' frontend to generate a budget forecasting report.
 
-![QtKeyboardMonitor](../assets/images/Qt-Keyboard-Monitor.png)
+![QtKeyboardMonitor](../assets/Qt-Keyboard-Monitor.png)
 
 ### [QtKeyboardMonitor](https://github.com/scytheStudio/qtkeyboardmonitor)
 
