@@ -1,17 +1,20 @@
 ![Scythe-Studio](https://user-images.githubusercontent.com/86096604/177173060-cb2ee146-5889-483a-b771-5b3a8daafd3a.png)
 
-## What is Scythe Studio? 🏢
+## About Us 🏢
+We are a group of Qt and C++ enthusiasts whose goal is to address growing demand for cross-platform Qt development services. Thanks to our expertise in **Qt Qml development**, quality of deliveries and proven track of projects developed for companies from various industries we have been awarded the title of an official **Qt Service Partner**.
 
-Scythe Studio company is a group of software enthusiasts for whom client satisfaction is the most crucial part of working.
-Scythe Studio was created due to the growing demand for cross-platform Qt development.
-Thanks to our outstanding expertise in **Qt Qml development**, we can enjoy the title of an official **Qt Service Partner**.
-The company offers numerous services for clients who wish to bring their ideas to life. We have extensive and practical knowledge about various Qt modules as well as experience in using this technology in projects for clients coming from various industries. If you want to see what Scythe Studio is is capable of and what services the company is providing, click [the link](https://scythe-studio.com/en/services).
+<span> 
+<a href="https://scythe-studio.com"><img width="340" height="150" src="https://user-images.githubusercontent.com/45963332/221174257-c1e1a9d9-0efa-4b25-996b-4b364ccb325c.svg"></a>
+<a href="https://clutch.co/profile/scythe-studio"><img height="150" width="150" src="https://user-images.githubusercontent.com/45963332/221174280-99b32a1d-7418-4a49-bcea-6927639cf557.png"></a>
+</span>
+
+The company offers broad spectrum of services for the clients who wish to bring their ideas to life. We have extensive and practical knowledge about various Qt modules and other technologies allowing to create high quality product in a cost effective approach. If you want to see what Scythe Studio is is capable of and what services we provide, check out [this link](https://scythe-studio.com/en/services).
 
 ![Team](https://user-images.githubusercontent.com/86096604/177173114-35ff7243-d8f8-4a5d-b364-30b955208627.jpg)
 
 ## Career at Scythe Studio  🧑‍💻
 
-We constantly want to improve and grow as a company and individuals. If you are on the same page as we, you can give it a shot and try work with us. For more information you can check out [the link](https://scythe-studio.com/en/careers). If you don't meet our requirements you can still join our team. The company has an internship program. To see more information checkout [the link](https://scythe-studio.com/en/qt-qml-development-internship).
+We constantly want to improve and grow as a company and individuals. If you share this enthusiasm for self-development, we encourage you to consider joining our team. For more information you can check out [this link](https://scythe-studio.com/en/careers). Even if you don't have all the required experience, you can still join our team by enrolling in our internship program. To get more information check out [this link](https://scythe-studio.com/en/qt-qml-development-internship).
 
 ## What you can find here 📈 
 
