@@ -43,8 +43,6 @@ We love sharing what we’ve learned about **Qt, C++, and cross-platform develop
 Check out our blog: [here](https://scythe-studio.com/en/blog)</br>
 Check out our YouTube channel: [here](https://www.youtube.com/@ScytheStudio)
 
-<hr>
-
 ## About Scythe Studio
 We’re a team of **Qt and C++ enthusiasts** dedicated to helping businesses build great cross-platform applications. As an official Qt Service Partner, we’ve earned the trust of companies across various industries by delivering high-quality, reliable solutions. With years of experience in **Qt and QML development**, we know how to turn ambitious ideas into outstanding products.
 
