@@ -11,26 +11,26 @@ We also follow **ISO 9001** standards, ensuring that every project we take on is
 What sets us apart is our focus on quality and compliance. We’re certified to **ISO 13485**, which means we’re fully equipped to develop software for the **medical industry**, meeting the strict requirements for medical device design and development. This makes us the go-to partner for companies working in **healthcare and medical technology**.</br>
 These certifications show that when you work with us, you’re getting a partner.
 
-<table style="margin: 0 auto; border-spacing: 20px 0; border:0px;">
-    <tr>
-        <td>
+<table style="margin: 0 auto; border:0;">
+    <tr style="border:0">
+        <td style="border:0">
             <a href="https://scythe-studio.com">
                 <img width="340" height="150"
                     src="https://user-images.githubusercontent.com/45963332/221174257-c1e1a9d9-0efa-4b25-996b-4b364ccb325c.svg">
             </a>
         </td>
-        <td>
+        <td style="border:0">
             <a href="https://clutch.co/profile/scythe-studio">
                 <img height="150" width="150"
                     src="https://github.com/user-attachments/assets/023e102e-84c1-4e7e-b9de-cae476e681e7">
             </a>
         </td>
-        <td>
+        <td style="border:0">
             <a href="https://scythe-studio.com/en/iso">
                 <img src="https://github.com/user-attachments/assets/a5388270-4be7-4f37-bbfa-6e41a820ca36">
             </a>
         </td>
-        <td>
+        <td style="border:0">
             <a href="https://scythe-studio.com/en/iso">
                 <img src="https://github.com/user-attachments/assets/a5388270-4be7-4f37-bbfa-6e41a820ca36">
             </a>
@@ -48,15 +48,32 @@ Check out our YouTube channel: [here](https://www.youtube.com/@ScytheStudio)
 ## About Scythe Studio
 We’re a team of **Qt and C++ enthusiasts** dedicated to helping businesses build great cross-platform applications. As an official Qt Service Partner, we’ve earned the trust of companies across various industries by delivering high-quality, reliable solutions. With years of experience in **Qt and QML development**, we know how to turn ambitious ideas into outstanding products.
 
-<span> 
-<a href="https://scythe-studio.com"><img width="340" height="150" src="https://user-images.githubusercontent.com/45963332/221174257-c1e1a9d9-0efa-4b25-996b-4b364ccb325c.svg"></a>
-<a href="https://clutch.co/profile/scythe-studio"><img height="150" width="150" src="https://github.com/user-attachments/assets/023e102e-84c1-4e7e-b9de-cae476e681e7"></a>
-</span></br>
-
-<span> 
-<a href="https://scythe-studio.com/en/iso"><img src="https://github.com/user-attachments/assets/ed436b50-8813-4573-8742-134372c5bf4e"></a>
-<a href="https://scythe-studio.com/en/iso"><img src="https://github.com/user-attachments/assets/a5388270-4be7-4f37-bbfa-6e41a820ca36"></a>
-</span>
+<table style="margin: 0 auto; border:0;">
+    <tr style="border:0">
+        <td style="border:0">
+            <a href="https://scythe-studio.com">
+                <img width="340" height="150"
+                    src="https://user-images.githubusercontent.com/45963332/221174257-c1e1a9d9-0efa-4b25-996b-4b364ccb325c.svg">
+            </a>
+        </td>
+        <td style="border:0">
+            <a href="https://clutch.co/profile/scythe-studio">
+                <img height="150" width="150"
+                    src="https://github.com/user-attachments/assets/023e102e-84c1-4e7e-b9de-cae476e681e7">
+            </a>
+        </td>
+        <td style="border:0">
+            <a href="https://scythe-studio.com/en/iso">
+                <img src="https://github.com/user-attachments/assets/a5388270-4be7-4f37-bbfa-6e41a820ca36">
+            </a>
+        </td>
+        <td style="border:0">
+            <a href="https://scythe-studio.com/en/iso">
+                <img src="https://github.com/user-attachments/assets/a5388270-4be7-4f37-bbfa-6e41a820ca36">
+            </a>
+        </td>
+    </tr>
+</table>
 
 We offer a wide range of services—from brainstorming ideas to delivering polished applications—always tailored to our clients’ needs. By combining deep knowledge of Qt modules and modern technologies with a practical, cost-effective approach, we create solutions that truly make a difference.
 
