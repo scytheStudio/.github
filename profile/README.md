@@ -1,4 +1,6 @@
-![Scythe-Studio](https://user-images.githubusercontent.com/86096604/177173060-cb2ee146-5889-483a-b771-5b3a8daafd3a.png)
+<a href="https://scythe-studio.com/en">
+    <img src="https://user-images.githubusercontent.com/86096604/177173060-cb2ee146-5889-483a-b771-5b3a8daafd3a.png">
+</a>
 
 ## About Us 🏢
 At Scythe Studio, we’re a team of **Qt and C++ enthusiasts** dedicated to helping businesses build great cross-platform applications. As an official Qt Service Partner, we’ve earned the trust of companies across various industries by delivering high-quality, reliable solutions. With years of experience in **Qt and QML development**, we know how to turn ambitious ideas into outstanding products.</br>
@@ -45,35 +47,47 @@ Check out our YouTube channel: [here](https://www.youtube.com/@ScytheStudio)
 
 ## What you can find here 📈 
 
-![Scodes](https://user-images.githubusercontent.com/86096604/177173184-d5bde072-82a0-4ec9-a612-314299084cfa.png)
+<a href="https://github.com/scytheStudio/SCodes">
+    <img src="https://user-images.githubusercontent.com/86096604/177173184-d5bde072-82a0-4ec9-a612-314299084cfa.png">
+</a>
 
  ### [SCodes](https://github.com/scytheStudio/SCodes)
 
 This project is Qt & Qml wrapper for ZXing-C++ Library that is used for decoding and generating 1D and 2D barcodes. This particular C++ ZXing port is one of the most recent C++ versions of the popular ZXing library using modern compilers. The goal of this project was to create a convenient filter allowing the processing of video frames from a phone camera. 
 
-![Technology](https://user-images.githubusercontent.com/86096604/177173411-14ecb044-9456-4a82-9400-26866fc67fef.png)
+<a href="https://github.com/scytheStudio/Flutter-vs-React-Native-vs-Qt">
+    <img src="https://user-images.githubusercontent.com/86096604/177173411-14ecb044-9456-4a82-9400-26866fc67fef.png">
+</a>
 
 ### [Flutter vs React Native vs Qt comparison](https://github.com/scytheStudio/Flutter-vs-React-Native-vs-Qt)
 
-![Gitlab](https://user-images.githubusercontent.com/86096604/177173555-24686210-5510-425b-9d6c-c18588550b32.png)
+<a href="https://gitlab.com/kosadev/example-gitlab-ci-cd-for-qt-project">
+    <img src="https://user-images.githubusercontent.com/86096604/177173555-24686210-5510-425b-9d6c-c18588550b32.png">
+</a>
 
 ### [ Example GitLab CI/CD for Qt project](https://gitlab.com/kosadev/example-gitlab-ci-cd-for-qt-project)
 
 This project focuses on showing an example of how to set up CI/CD for a cross-platform Qt project. The application itself doesn't do anything. `.gitlab-ci.yml` and Ruby scripts placed in `targets` sub directories are what you should be concerned about.
 
-![NFC-Demo](https://user-images.githubusercontent.com/86096604/177173618-07c55f46-1499-4944-8f04-778fe33a5758.png)
+<a href="https://github.com/scytheStudio/NFC-Demo">
+    <img src="https://user-images.githubusercontent.com/86096604/177173618-07c55f46-1499-4944-8f04-778fe33a5758.png">
+</a>
 
 ### [NFC Demo](https://github.com/scytheStudio/NFC-Demo)
 
 This demo presents how to use NFC for communication using the Qt framework on a mobile platform. The application has a simple UI and logic that can be an example of creative NFC usage. If you want a more in-depth look you can check out our blog post on Scythe Studio Blog.
 
-![Zoho-Books-Forecasting](https://user-images.githubusercontent.com/86096604/177173638-ac695171-93c5-464c-964d-c38613a774c0.png)
+<a href="https://github.com/scytheStudio/Zoho-Books-Forecasting">
+    <img src="https://user-images.githubusercontent.com/86096604/177173638-ac695171-93c5-464c-964d-c38613a774c0.png">
+</a>
 
 ### [Zoho Books Forecasting](https://github.com/scytheStudio/Zoho-Books-Forecasting)
 
 Zoho Books Forecasting is a desktop application. It visualizes the financial history and makes forecasts for companies. The application utilizes the Zoho Books platform. The motivation behind the making of such an application was the inability of Zoho Books' frontend to generate a budget forecasting report.
 
-![Qt-Keyboard-Monitor](https://user-images.githubusercontent.com/86096604/177173662-8e4759b2-e3e7-4d1d-8bde-8667de6c357c.png)
+<a href="https://github.com/scytheStudio/qtkeyboardmonitor">
+    <img src="https://user-images.githubusercontent.com/86096604/177173662-8e4759b2-e3e7-4d1d-8bde-8667de6c357c.png">
+</a>
 
 ### [QtKeyboardMonitor](https://github.com/scytheStudio/qtkeyboardmonitor)
 
