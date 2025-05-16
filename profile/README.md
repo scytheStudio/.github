@@ -1,5 +1,5 @@
 <a href="https://scythe-studio.com/en">
-    <img src="https://user-images.githubusercontent.com/86096604/177173060-cb2ee146-5889-483a-b771-5b3a8daafd3a.png">
+    <img src="../assets/Main-SS.jpg">
 </a>
 
 ## About Us 🏢
@@ -48,7 +48,7 @@ Check out our YouTube channel: [here](https://www.youtube.com/@ScytheStudio)
 ## What you can find here 📈 
 
 <a href="https://github.com/scytheStudio/SCodes">
-    <img src="https://user-images.githubusercontent.com/86096604/177173184-d5bde072-82a0-4ec9-a612-314299084cfa.png">
+    <img src="../assets/SCodes.jpg">
 </a>
 
  ### [SCodes](https://github.com/scytheStudio/SCodes)
@@ -56,13 +56,13 @@ Check out our YouTube channel: [here](https://www.youtube.com/@ScytheStudio)
 This project is Qt & Qml wrapper for ZXing-C++ Library that is used for decoding and generating 1D and 2D barcodes. This particular C++ ZXing port is one of the most recent C++ versions of the popular ZXing library using modern compilers. The goal of this project was to create a convenient filter allowing the processing of video frames from a phone camera. 
 
 <a href="https://github.com/scytheStudio/Flutter-vs-React-Native-vs-Qt">
-    <img src="https://user-images.githubusercontent.com/86096604/177173411-14ecb044-9456-4a82-9400-26866fc67fef.png">
+    <img src="../assets/Flutter-vs-React-Native-vs-Qt.jpg">
 </a>
 
 ### [Flutter vs React Native vs Qt comparison](https://github.com/scytheStudio/Flutter-vs-React-Native-vs-Qt)
 
 <a href="https://gitlab.com/kosadev/example-gitlab-ci-cd-for-qt-project">
-    <img src="https://user-images.githubusercontent.com/86096604/177173555-24686210-5510-425b-9d6c-c18588550b32.png">
+    <img src="../assets/Example-GitLab-CICD.jpg">
 </a>
 
 ### [ Example GitLab CI/CD for Qt project](https://gitlab.com/kosadev/example-gitlab-ci-cd-for-qt-project)
@@ -70,7 +70,7 @@ This project is Qt & Qml wrapper for ZXing-C++ Library that is used for decoding
 This project focuses on showing an example of how to set up CI/CD for a cross-platform Qt project. The application itself doesn't do anything. `.gitlab-ci.yml` and Ruby scripts placed in `targets` sub directories are what you should be concerned about.
 
 <a href="https://github.com/scytheStudio/NFC-Demo">
-    <img src="https://user-images.githubusercontent.com/86096604/177173618-07c55f46-1499-4944-8f04-778fe33a5758.png">
+    <img src="../assets/QtQML-NFC-Demo.jpg">
 </a>
 
 ### [NFC Demo](https://github.com/scytheStudio/NFC-Demo)
@@ -78,7 +78,7 @@ This project focuses on showing an example of how to set up CI/CD for a cross-pl
 This demo presents how to use NFC for communication using the Qt framework on a mobile platform. The application has a simple UI and logic that can be an example of creative NFC usage. If you want a more in-depth look you can check out our blog post on Scythe Studio Blog.
 
 <a href="https://github.com/scytheStudio/Zoho-Books-Forecasting">
-    <img src="https://user-images.githubusercontent.com/86096604/177173638-ac695171-93c5-464c-964d-c38613a774c0.png">
+    <img src="../assets/Zoho-Books-Forecasting.jpg">
 </a>
 
 ### [Zoho Books Forecasting](https://github.com/scytheStudio/Zoho-Books-Forecasting)
@@ -86,7 +86,7 @@ This demo presents how to use NFC for communication using the Qt framework on a 
 Zoho Books Forecasting is a desktop application. It visualizes the financial history and makes forecasts for companies. The application utilizes the Zoho Books platform. The motivation behind the making of such an application was the inability of Zoho Books' frontend to generate a budget forecasting report.
 
 <a href="https://github.com/scytheStudio/qtkeyboardmonitor">
-    <img src="https://user-images.githubusercontent.com/86096604/177173662-8e4759b2-e3e7-4d1d-8bde-8667de6c357c.png">
+    <img src="../assets/Qt-Keyboard-Monitor.jpg">
 </a>
 
 ### [QtKeyboardMonitor](https://github.com/scytheStudio/qtkeyboardmonitor)
