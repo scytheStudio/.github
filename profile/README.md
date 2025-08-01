@@ -1,5 +1,5 @@
 <a href="https://somcosoftware.com/en">
-    <img src="../assets/Somco software.png">
+    <img src="../assets/Somco software previously scythe.png">
 </a>
 
 ## About Us 🏢
@@ -17,8 +17,7 @@ These certifications show that when you work with us, you’re getting a partner
     <tr style="border:0">
         <td style="border:0">
             <a href="https://somcosoftware.com">
-                <img width="340" height="150"
-                    src="https://user-images.githubusercontent.com/45963332/221174257-c1e1a9d9-0efa-4b25-996b-4b364ccb325c.svg">
+                <img src="../assets/Qt-service-partner-badge.png">
             </a>
         </td>
         <td style="border:0">
@@ -29,12 +28,12 @@ These certifications show that when you work with us, you’re getting a partner
         </td>
         <td style="border:0">
             <a href="https://scythe-studio.com/en/iso">
-                <img src="https://github.com/user-attachments/assets/a5388270-4be7-4f37-bbfa-6e41a820ca36">
+                <img src="../assets/iso 13485.png">
             </a>
         </td>
         <td style="border:0">
             <a href="https://scythe-studio.com/en/iso">
-                <img src="https://github.com/user-attachments/assets/a5388270-4be7-4f37-bbfa-6e41a820ca36">
+                <img src="../assets/iso 9001.png">
             </a>
         </td>
     </tr>
